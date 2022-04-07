@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peerless-rock-346305",
+  "private_key_id": "0d5ade60fad01a9e161a7e8529fb3a9809a28b18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0iTUvW+fZxkq/\nCADF/wEiWQi9Ji3Ol4cP8xahVoC9F+gHoB3yXUE9A3PfKb384MrWZGF+9QyAFulk\nlb6b0tNduXOLk4FEc6/0Gf92L7OFd1Qbr7cV9GbO7mhov+3K8CtesgKX7ysXcova\nPNOCZMsLHBGBu8HhRyeGauZzHBKtBCi7M43R0HI+qB1Ejep914AGi5zg5gHaV+ej\ndhw6OCpom1wL6CH94TwlMao6nvFCecCGt847X69hqOQvXDzWeo84f+qztsoNdtCp\nOiq5Z+85REh8kop1wOK4fX2bQNU/ajBHoS7J+OUEl3ycDOBX5oOq7bvWDy5T1qIq\nb+JCHaMnAgMBAAECggEACqVGmhbQyqIrOS2HIiXB0t0uKz0rmVGNGM8sR/I6YCwf\nNgfmjCqclLT16bRj7BvzSgYcS6i2hn0TYSeFWFnrtcygOBxIFJm/x+SakEUK0HVz\nY7iOUsCZKV2ckYSzyHI2FHzpszzarSTHg2Rv0nIQGQUcMSq5qYeRGJeIJESFA2ew\nYFvV+9Yd6+243E4uNeK3qUnuhPnYZxkf7fESJ0wl4wh5+jzhnF2krGJ0cpEFNCMM\nlLgvEsOjH9+ex5w/1vh8Gyo95tRWfIjSaQvs6SUsXIyjMLDO+6iqeGIBgiT5lPCQ\nXfa16iPV7hz2QQSBX5jmUuQ2b+U2w5OTFhtZSlrNaQKBgQDvnEAYkA2i1mkOagbe\nHDSmp5zQivJoZIRHQWFPu7s4JE1byrYfsgYpk1JJh1tJkcNtt/U8CQ7X98JfLWY3\naj/ZZqeadOgpuf0gdF/3XEK1GdWyoXJAt0TZimvomwXYFu7vANVgC0U6dEnyAKoC\n5hCsn7Ao/3IrxVn4yaxhjXJpGQKBgQDA4oW8OdaRIoPVUaGtaoz8R/Ch8hkAkqQY\nNtLpruzz6THyKeMF4+bteKiBdN1SwUoh71WlgpbvXDRyC+3G8Kmp870mJH4NeLeY\n1L4/nUOZd174EvhMXOWvv09tk2SCR/iJBFklszmbZa6ZBDM+J3VT5QPrZkDjGsT0\nyOdQf+62PwKBgHnGJEEXfQakB1JfCkx5czy7dJP7+cSaSSvZi3Y1R6n5sSMUe8jR\n9hXNHIXn97oFDZhGZKj1RYj3Dt7GOOuy4O5BIK77+T2zm3SSEG+rgO9/SL73FBTV\nz3Trx3m4x5iR1y66crbUI4PYs/f85GqCuDizE5lScZjTPK2W+Te+5kWJAoGAVCdA\nc9PEMoQdgodgA5oWMsdsTCulDuPrpgjdUkkYZn5aZS4zN1GsYfUfh4OmQEHGhzG1\na0WjdoEC/LMJpZ9AVr7Zyndna5c8evhunLCPWriC/bbBEAgDyf6st8DzvAeMfrMf\n9dvRCWR+nZIAjWCHxveHE0AElVELl0TD7xIx4t8CgYEAkRK6iybvLcO0HIUqDAmF\n74PEk0wKt3p4gn9/MjQHEUN9UtEnLzeLVn2bSWdFNOpC2WS7sYCTnUpPcEE47NOs\nQu80BX+j1qCt+roFbdz5S13ZY+EbZqEdIRGVVDn6pAnigw/esmhJFsrO4hqwuV89\nJYeYSfn7h04ktWB37VVwuIo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraformsa@peerless-rock-346305.iam.gserviceaccount.com",
+  "client_id": "107763230981889494759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraformsa%40peerless-rock-346305.iam.gserviceaccount.com"
+}
