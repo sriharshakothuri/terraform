@@ -1,7 +1,7 @@
 terraform {
     backend "gcs"{
-        bucket = "terraformsa-tfstate"
-        prefix = "peerless-rock-346305"
-        credentials = "key.json"
+        bucket = "harsha12345"
+        prefix = "harsha-346511"
+        credentials = "key2.json"
     }
 }

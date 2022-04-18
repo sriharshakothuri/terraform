@@ -1,6 +1,6 @@
 provider "google" {
-  project     = "peerless-rock-346305"
+  project     = "harsha-346511"
 //   region  = "<YOUR REGION>"
 //   zone    = "<YOUR ZONE>"
-  credentials = file("key.json")
+  credentials = file("key2.json")
 }
