@@ -66,7 +66,7 @@ resource "google_container_cluster" "primary" {
 
 resource "google_container_node_pool" "primary_preemptible_nodes" {
   name       = "my-node-pool"
-  location   = "asia-south2"
+  location   = "asia-south2-c"
   cluster    = google_container_cluster.primary.name
   node_count = 1
 
