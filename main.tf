@@ -75,6 +75,6 @@ resource "google_container_node_pool" "primary_preemptible_nodes" {
     machine_type = "n1-standard-1"
 
     # Google recommends custom service accounts that have cloud-platform scope and permissions granted via IAM Roles.
-    service_account = "terraformsa@peerless-rock-346305.iam.gserviceaccount.com"
+    service_account = "terraformsa2@harsha-346511.iam.gserviceaccount.com"
   }
 }
