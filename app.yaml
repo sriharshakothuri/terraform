@@ -5,7 +5,7 @@ metadata:
   name: webserver
 spec:
   containers:
-    - image: nginx
+    - image: gcr.io/harsha-346511/centos:latest
       name: web-server-container
       ports:
       - containerPort: 8080
