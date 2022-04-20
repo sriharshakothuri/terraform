@@ -76,5 +76,8 @@ resource "google_container_node_pool" "primary_preemptible_nodes" {
 
     # Google recommends custom service accounts that have cloud-platform scope and permissions granted via IAM Roles.
     service_account = "terraformsa2@harsha-346511.iam.gserviceaccount.com"
+    oauth_scopes = [
+      "https://www.googleapis.com/auth/devstorage.full_control"
+    ]
   }
 }
